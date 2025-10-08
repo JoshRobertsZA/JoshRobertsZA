@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  Enthusiastic Full Stack Developer with practical experience in Progressive Web App Development, React, JavaScript (ES6+), TypeScript, HTML/CSS, TailwindCSS, SCSS. Accessibility‑minded. Agile & Scrum inspired.
+  Enthusiastic Full Stack Developer with practical experience in Progressive Web App Development, React, JavaScript (ES6+), TypeScript, HTML/CSS, Python, Java, C# & Delphi.
 </p>
 
 <br />
