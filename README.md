@@ -45,7 +45,7 @@
   <tr>
     <td valign="top">
       <strong><a href="https://github.com/JoshRobertsZA/Cyberion">Cyberion</a></strong><br />
-      <em>Cyberion is a WPF-based educational runner game. Players overcome obstacles by answering cybersecurity questions, combining gamified learning with real-time interaction, animations, and an intelligent offline chatbot for feedback on cybersecurity</em><br /><br />
+      <em>Cyberion is a WPF-based educational runner game. Players overcome obstacles by answering cybersecurity questions, combining gamified learning with real-time interaction, animations, and an intelligent offline chatbot for feedback</em><br /><br />
       🟡 C# &nbsp;
     </td>
     <td valign="top">
