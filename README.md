@@ -3,20 +3,20 @@
 <hr />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
+  <a href="https://www.linkedin.com/in/joshua-roberts-526459294/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.example" target="_blank">
+  <a href="https://joshrobertsza.com" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/-PORTFOLIO-3fb950?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://codepen.io/your-codepen-id" target="_blank">
     <img alt="CodePen" src="https://img.shields.io/badge/-CODEPEN-000000?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
+  <a href="https://x.com/joshrobertsza" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/-TWITTER-1D9BF0?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://hashnode.com/@your-hashnode" target="_blank">
-    <img alt="Hashnode" src="https://img.shields.io/badge/-HASHNODE-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  <a href=https://discord.com/users/joshzee" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/-DISCORD-2962FF?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
@@ -31,54 +31,28 @@
   <!-- Row 1: Banner images -->
   <tr>
     <td width="50%">
-      <a href="https://github.com/JoshRobertsZA/project1">
-        <img src="assets/project1.png" alt="project1" />
+      <a href="https://github.com/JoshRobertsZA/Cyberion">
+        <img src="https://github.com/JoshRobertsZA/Cyberion/blob/master/Game/resources/GameTitle.png" alt="Cyberion" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/JoshRobertsZA/project2">
-        <img src="assets/project2.png" alt="project2" />
+      <a href="https://github.com/VCCT-PROG6212-2025-G2/ST10265742_PROG6212">
+        <img src="https://github.com/JoshRobertsZA/JoshRobertsZA/blob/main/assets/VCLC.png" alt="VCLC" />
       </a>
     </td>
   </tr>
   
   <tr>
     <td valign="top">
-      <strong><a href="https://github.com/JoshRobertsZA/project1">project1</a></strong><br />
-      <em>Information about Project 1</em><br /><br />
-      🟡 C#, HTML/CSS &nbsp;
+      <strong><a href="https://github.com/JoshRobertsZA/Cyberion">Cyberion</a></strong><br />
+      <em>Cyberion is a WPF-based educational runner game. Players overcome obstacles by answering cybersecurity questions, combining gamified learning with real-time interaction, animations, and an intelligent offline chatbot for feedback on cybersecurity</em><br /><br />
+      🟡 C# &nbsp;
     </td>
     <td valign="top">
-      <strong><a href="https://github.com/JoshRobertsZA/project2">project2</a></strong><br />
-      <em>Information about project 2</em><br /><br />
-      🟡 Java &nbsp;
+      <strong><a href=https://github.com/VCCT-PROG6212-2025-G2/ST10265742_PROG6212>VCLC</a></strong><br />
+      <em>VCLC is an MVC-based application designed to streamline the claims workflow for academic staff. Lecturers can submit claims, programme coordinators review and verify them, and academic managers perform final approval on verified claims.</em><br /><br />
+      🟡 C#, HTML, CSS, Javascript &nbsp;
     </td>
   </tr>
-
-  <!-- Row 2: Banner images -->
-  <tr>
-    <td>
-      <a href="https://github.com/JoshRobertsZA/project3">
-        <img src="assets/project3.png" alt="project3" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/JoshRobertsZA/project4">
-        <img src="assets/project4.png" alt="project4" />
-      </a>
-    </td>
-  </tr>
-  <!-- Row 2: Info panels -->
-  <tr>
-    <td valign="top">
-      <strong><a href="https://github.com/JoshRobertsZA/project3">project3</a></strong><br />
-      <em>Online journal helping users improve language skills via reflective writing.</em><br /><br />
-      🟡 Python, React-Native &nbsp;
-    </td>
-    <td valign="top">
-      <strong><a href="https://github.com/JoshRobertsZA/instagram-clone">project4</a></strong><br />
-      <em>Clone built with React, Firebase, TailwindCSS; tested with react-testing-library.</em><br /><br />
-      🟡 JavaScript &nbsp;
-    </td>
   </tr>
 </table>
