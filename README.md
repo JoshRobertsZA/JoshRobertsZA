@@ -8,8 +8,8 @@
   <a href="https://joshrobertsza.com" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/-PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://codepen.io/your-codepen-id" target="_blank">
-    <img alt="CodePen" src="https://img.shields.io/badge/-CODEPEN-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+  <a href="https://www.buymeacoffee.com/joshroberts" target="_blank">
+    <img alt="Buy Me a Coffee" src="https://img.shields.io/badge/-BUY%20ME%20A%20COFFEE-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
   </a>
   <a href="https://x.com/joshrobertsza" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/-TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" />
@@ -25,7 +25,7 @@
 
 <br />
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
@@ -45,18 +45,14 @@
 
 <br />
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">My Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=JoshRobertsZA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=JoshRobertsZA&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" width="49%" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JoshRobertsZA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&count_private=true" width="45%" />
-</p>
 
 <br />
 
-<h3 align="center">📈 Activity</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoshRobertsZA&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF&title_color=58A6FF&hide_border=true" width="95%" />
 </p>
