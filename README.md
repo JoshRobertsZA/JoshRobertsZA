@@ -47,8 +47,8 @@
 
 <h3 align="center">My Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=JoshRobertsZA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=JoshRobertsZA&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=JoshRobertsZA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true&cachebust=1" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=JoshRobertsZA&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&cachebust=1" width="49%" />
 </p>
 
 <br />
@@ -62,7 +62,7 @@
 
 <br />
 
-<h3 align="center">🖥️ Featured Projects</h3>
+<h3 align="center">Featured Projects</h3>
 
 <table width="100%">
   <tr>
@@ -91,6 +91,35 @@
       <img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26" />
       <img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6" />
       <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/JoshRobertsZA/BudgtAI">
+        <img src="https://img.youtube.com/vi/AXzx514A0nA/maxresdefault.jpg" alt="BudgtAI" width="100%" style="max-height:180px; object-fit:cover;" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/JoshRobertsZA/TechLogistics">
+        <img src="https://placehold.co/600x300/0D1117/58A6FF?text=GLMS+%7C+TechLogistics&font=montserrat" alt="TechLogistics" width="100%" style="max-height:180px; object-fit:cover;" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong><a href="https://github.com/JoshRobertsZA/BudgtAI">BudgtAI</a></strong><br />
+      AI-powered Android budgeting app — scans receipts with Gemini Vision, syncs in real time via Firebase, and gamifies healthy spending habits.<br /><br />
+      <img src="https://img.shields.io/badge/-Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=7F52FF" />
+      <img src="https://img.shields.io/badge/-Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28" />
+      <img src="https://img.shields.io/badge/-Gemini%20AI-0D1117?style=flat-square&logoColor=4285F4" />
+    </td>
+    <td valign="top">
+      <strong><a href="https://github.com/JoshRobertsZA/TechLogistics">TechLogistics (GLMS)</a></strong><br />
+      ASP.NET Core logistics management system with a service-oriented MVC/API split, JWT auth, Docker Compose deployment, and a Gemini-powered AI assistant.<br /><br />
+      <img src="https://img.shields.io/badge/-C%23-0D1117?style=flat-square&logo=csharp&logoColor=239120" />
+      <img src="https://img.shields.io/badge/-.NET-0D1117?style=flat-square&logo=dotnet&logoColor=512BD4" />
+      <img src="https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" />
+      <img src="https://img.shields.io/badge/-SQL%20Server-0D1117?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" />
     </td>
   </tr>
 </table>
