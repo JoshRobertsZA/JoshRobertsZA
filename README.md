@@ -12,7 +12,7 @@
     <img alt="Buy Me a Coffee" src="https://img.shields.io/badge/-BUY%20ME%20A%20COFFEE-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
   </a>
   <a href="https://x.com/joshrobertsza" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/-TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img alt="X" src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://discord.com/users/joshzee" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  Full stack developer focused on building practical, user-facing applications — from Progressive Web Apps in React/TypeScript to desktop and enterprise tools in C# and Java. Comfortable owning a feature end to end: UI, API, data, and deployment.
+  Full stack developer focused on building practical, user-facing applications — from Progressive Web Apps in React/TypeScript and Next.js to desktop and enterprise tools in C# and Java. Comfortable owning a feature end to end: UI, API, data, and deployment.
 </p>
 
 <br />
@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6" />
   <br />
@@ -37,8 +38,13 @@
   <img src="https://img.shields.io/badge/-Java-0D1117?style=flat-square&logo=openjdk&logoColor=E76F00" />
   <img src="https://img.shields.io/badge/-C%23-0D1117?style=flat-square&logo=csharp&logoColor=239120" />
   <img src="https://img.shields.io/badge/-.NET-0D1117?style=flat-square&logo=dotnet&logoColor=512BD4" />
+  <img src="https://img.shields.io/badge/-Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=7F52FF" />
   <img src="https://img.shields.io/badge/-Delphi-0D1117?style=flat-square&logo=delphi&logoColor=E62431" />
   <br />
+  <img src="https://img.shields.io/badge/-Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3FCF8E" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/-Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28" />
+  <img src="https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E" />
 </p>
@@ -54,7 +60,7 @@
 <br />
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoshRobertsZA&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF&title_color=58A6FF&hide_border=true" width="95%" />
+  <img src="https://activity-graph.vercel.app/graph?username=JoshRobertsZA&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF&title_color=58A6FF&hide_border=true" width="95%" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/JoshRobertsZA/JoshRobertsZA/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="95%" />
@@ -68,12 +74,12 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/JoshRobertsZA/Cyberion">
-        <img src="https://github.com/JoshRobertsZA/Cyberion/blob/master/Game/resources/GameTitle.png" alt="Cyberion" width="100%" style="max-height:180px; object-fit:cover;" />
+        <img src="https://raw.githubusercontent.com/JoshRobertsZA/Cyberion/master/Game/resources/GameTitle.png" alt="Cyberion" width="100%" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/VCCT-PROG6212-2025-G2/ST10265742_PROG6212">
-        <img src="https://github.com/JoshRobertsZA/JoshRobertsZA/blob/main/assets/VCLC.png" alt="VCLC" width="100%" style="max-height:180px; object-fit:cover;" />
+        <img src="https://raw.githubusercontent.com/JoshRobertsZA/JoshRobertsZA/main/assets/VCLC.png" alt="VCLC" width="100%" />
       </a>
     </td>
   </tr>
@@ -96,12 +102,12 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/JoshRobertsZA/BudgtAI">
-        <img src="https://img.youtube.com/vi/AXzx514A0nA/maxresdefault.jpg" alt="BudgtAI" width="100%" style="max-height:180px; object-fit:cover;" />
+        <img src="https://img.youtube.com/vi/AXzx514A0nA/maxresdefault.jpg" alt="BudgtAI" width="100%" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/JoshRobertsZA/TechLogistics">
-        <img src="https://placehold.co/600x300/0D1117/58A6FF?text=GLMS+%7C+TechLogistics&font=montserrat" alt="TechLogistics" width="100%" style="max-height:180px; object-fit:cover;" />
+        <img src="https://placehold.co/600x300/0D1117/58A6FF?text=GLMS+%7C+TechLogistics&font=montserrat" alt="TechLogistics" width="100%" />
       </a>
     </td>
   </tr>
@@ -111,7 +117,7 @@
       AI-powered Android budgeting app — scans receipts with Gemini Vision, syncs in real time via Firebase, and gamifies healthy spending habits.<br /><br />
       <img src="https://img.shields.io/badge/-Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=7F52FF" />
       <img src="https://img.shields.io/badge/-Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28" />
-      <img src="https://img.shields.io/badge/-Gemini%20AI-0D1117?style=flat-square&logoColor=4285F4" />
+      <img src="https://img.shields.io/badge/-Gemini%20AI-0D1117?style=flat-square&logo=googlegemini&logoColor=8E75B2" />
     </td>
     <td valign="top">
       <strong><a href="https://github.com/JoshRobertsZA/TechLogistics">TechLogistics (GLMS)</a></strong><br />
